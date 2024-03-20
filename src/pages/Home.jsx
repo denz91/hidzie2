@@ -7,7 +7,7 @@ import Button from "../component/Button";
 const Home = () => {
   return (
     <div className="">
-      <div className="bg-black w-full h-[700px] flex flex-col justify-center items-center">
+      <div className="bg-black w-full h-[700px] flex flex-col justify-center items-center bg-fixed">
         <div className="w-40">
           <img className="items-center" src={Logohidzie} alt="" />
         </div>
